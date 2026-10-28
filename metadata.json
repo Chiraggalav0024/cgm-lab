@@ -1,0 +1,6 @@
+{
+  "name": "Computer Graphics Lab Manual & Experiments",
+  "description": "Comprehensive Computer Graphics lab manual with 12 numbered experiments, syntax-corrected C graphics code, logic explanations, interactive graphical simulations, and one-click PDF generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
